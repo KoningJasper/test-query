@@ -1,0 +1,2 @@
+DECLARE OR REPLACE VARIABLE myvar INT DEFAULT 17;
+select myvar + 1;
